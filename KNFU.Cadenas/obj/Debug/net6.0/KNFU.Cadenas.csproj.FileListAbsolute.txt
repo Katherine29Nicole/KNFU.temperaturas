@@ -1,0 +1,11 @@
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Cadenas\bin\Debug\net6.0\KNFU.Cadenas.deps.json
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Cadenas\bin\Debug\net6.0\KNFU.Cadenas.dll
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Cadenas\bin\Debug\net6.0\KNFU.Cadenas.pdb
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Cadenas\obj\Debug\net6.0\KNFU.Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Cadenas\obj\Debug\net6.0\KNFU.Cadenas.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Cadenas\obj\Debug\net6.0\KNFU.Cadenas.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Cadenas\obj\Debug\net6.0\KNFU.Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Cadenas\obj\Debug\net6.0\KNFU.Cadenas.dll
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Cadenas\obj\Debug\net6.0\refint\KNFU.Cadenas.dll
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Cadenas\obj\Debug\net6.0\KNFU.Cadenas.pdb
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Cadenas\obj\Debug\net6.0\ref\KNFU.Cadenas.dll

@@ -1,0 +1,11 @@
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Temperatura\bin\Debug\net6.0\KNFU.Temperatura.deps.json
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Temperatura\bin\Debug\net6.0\KNFU.Temperatura.dll
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Temperatura\bin\Debug\net6.0\KNFU.Temperatura.pdb
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Temperatura\obj\Debug\net6.0\KNFU.Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Temperatura\obj\Debug\net6.0\KNFU.Temperatura.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Temperatura\obj\Debug\net6.0\KNFU.Temperatura.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Temperatura\obj\Debug\net6.0\KNFU.Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Temperatura\obj\Debug\net6.0\KNFU.Temperatura.dll
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Temperatura\obj\Debug\net6.0\refint\KNFU.Temperatura.dll
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Temperatura\obj\Debug\net6.0\KNFU.Temperatura.pdb
+C:\Users\nicol\OneDrive\Documentos\PracticasApi\KNFU\KNFU.Temperatura\obj\Debug\net6.0\ref\KNFU.Temperatura.dll

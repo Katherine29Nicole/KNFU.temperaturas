@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\PracticasApi\\KNFU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4773E7-BFAB-4A5E-8CC1-209AA284E366}|MABT.Cadenas_UnitTestXUnit\\MABT.Cadenas_UnitTestXUnit.csproj|c:\\users\\nicol\\onedrive\\documentos\\practicasapi\\knfu\\mabt.cadenas_unittestxunit\\manipuladorcadenastest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4773E7-BFAB-4A5E-8CC1-209AA284E366}|MABT.Cadenas_UnitTestXUnit\\MABT.Cadenas_UnitTestXUnit.csproj|solutionrelative:mabt.cadenas_unittestxunit\\manipuladorcadenastest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864E3EA3-99F6-402F-8D12-1FCDD3928531}|KNFU.Cadenas\\KNFU.Cadenas.csproj|c:\\users\\nicol\\onedrive\\documentos\\practicasapi\\knfu\\knfu.cadenas\\manipuladorcadenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864E3EA3-99F6-402F-8D12-1FCDD3928531}|KNFU.Cadenas\\KNFU.Cadenas.csproj|solutionrelative:knfu.cadenas\\manipuladorcadenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6034225-F1BD-4187-A1F0-1665E936E024}|KNFU.Temperatura.Unit.TestMSTest\\KNFU.Temperatura.Unit.TestMSTest.csproj|c:\\users\\nicol\\onedrive\\documentos\\practicasapi\\knfu\\knfu.temperatura.unit.testmstest\\convertidortemperaturatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6034225-F1BD-4187-A1F0-1665E936E024}|KNFU.Temperatura.Unit.TestMSTest\\KNFU.Temperatura.Unit.TestMSTest.csproj|solutionrelative:knfu.temperatura.unit.testmstest\\convertidortemperaturatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6034225-F1BD-4187-A1F0-1665E936E024}|KNFU.Temperatura.Unit.TestMSTest\\KNFU.Temperatura.Unit.TestMSTest.csproj|c:\\users\\nicol\\onedrive\\documentos\\practicasapi\\knfu\\knfu.temperatura.unit.testmstest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6034225-F1BD-4187-A1F0-1665E936E024}|KNFU.Temperatura.Unit.TestMSTest\\KNFU.Temperatura.Unit.TestMSTest.csproj|solutionrelative:knfu.temperatura.unit.testmstest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B4E05D-AFCF-4F40-BDEF-106CAF981B14}|KNFU.Temperatura\\KNFU.Temperatura.csproj|c:\\users\\nicol\\onedrive\\documentos\\practicasapi\\knfu\\knfu.temperatura\\convertidortemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B4E05D-AFCF-4F40-BDEF-106CAF981B14}|KNFU.Temperatura\\KNFU.Temperatura.csproj|solutionrelative:knfu.temperatura\\convertidortemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManipuladorCadenas.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\PracticasApi\\KNFU\\KNFU.Cadenas\\ManipuladorCadenas.cs",
+              "RelativeDocumentMoniker": "KNFU.Cadenas\\ManipuladorCadenas.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\PracticasApi\\KNFU\\KNFU.Cadenas\\ManipuladorCadenas.cs",
+              "RelativeToolTip": "KNFU.Cadenas\\ManipuladorCadenas.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:02:57.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManipuladorCadenasTest.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\PracticasApi\\KNFU\\MABT.Cadenas_UnitTestXUnit\\ManipuladorCadenasTest.cs",
+              "RelativeDocumentMoniker": "MABT.Cadenas_UnitTestXUnit\\ManipuladorCadenasTest.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\PracticasApi\\KNFU\\MABT.Cadenas_UnitTestXUnit\\ManipuladorCadenasTest.cs",
+              "RelativeToolTip": "MABT.Cadenas_UnitTestXUnit\\ManipuladorCadenasTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:55:46.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\PracticasApi\\KNFU\\KNFU.Temperatura.Unit.TestMSTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "KNFU.Temperatura.Unit.TestMSTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\PracticasApi\\KNFU\\KNFU.Temperatura.Unit.TestMSTest\\UnitTest1.cs",
+              "RelativeToolTip": "KNFU.Temperatura.Unit.TestMSTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:45:58.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConvertidorTemperaturaTests.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\PracticasApi\\KNFU\\KNFU.Temperatura.Unit.TestMSTest\\ConvertidorTemperaturaTests.cs",
+              "RelativeDocumentMoniker": "KNFU.Temperatura.Unit.TestMSTest\\ConvertidorTemperaturaTests.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\PracticasApi\\KNFU\\KNFU.Temperatura.Unit.TestMSTest\\ConvertidorTemperaturaTests.cs",
+              "RelativeToolTip": "KNFU.Temperatura.Unit.TestMSTest\\ConvertidorTemperaturaTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:08:43.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConvertidorTemperatura.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\PracticasApi\\KNFU\\KNFU.Temperatura\\ConvertidorTemperatura.cs",
+              "RelativeDocumentMoniker": "KNFU.Temperatura\\ConvertidorTemperatura.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\PracticasApi\\KNFU\\KNFU.Temperatura\\ConvertidorTemperatura.cs",
+              "RelativeToolTip": "KNFU.Temperatura\\ConvertidorTemperatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:58:51.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
