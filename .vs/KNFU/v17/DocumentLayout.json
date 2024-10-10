@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\PracticasApi\\KNFU\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD4773E7-BFAB-4A5E-8CC1-209AA284E366}|MABT.Cadenas_UnitTestXUnit\\MABT.Cadenas_UnitTestXUnit.csproj|c:\\users\\nicol\\onedrive\\documentos\\practicasapi\\knfu\\mabt.cadenas_unittestxunit\\manipuladorcadenastest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD4773E7-BFAB-4A5E-8CC1-209AA284E366}|MABT.Cadenas_UnitTestXUnit\\MABT.Cadenas_UnitTestXUnit.csproj|solutionrelative:mabt.cadenas_unittestxunit\\manipuladorcadenastest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD4773E7-BFAB-4A5E-8CC1-209AA284E366}|MABT.Cadenas_UnitTestXUnit\\KNFU.Cadenas_UnitTestXUnit.csproj|c:\\users\\nicol\\onedrive\\documentos\\practicasapi\\knfu\\mabt.cadenas_unittestxunit\\manipuladorcadenastest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4773E7-BFAB-4A5E-8CC1-209AA284E366}|MABT.Cadenas_UnitTestXUnit\\KNFU.Cadenas_UnitTestXUnit.csproj|solutionrelative:mabt.cadenas_unittestxunit\\manipuladorcadenastest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{864E3EA3-99F6-402F-8D12-1FCDD3928531}|KNFU.Cadenas\\KNFU.Cadenas.csproj|c:\\users\\nicol\\onedrive\\documentos\\practicasapi\\knfu\\knfu.cadenas\\manipuladorcadenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "KNFU.Cadenas\\ManipuladorCadenas.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAiwBAAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T21:02:57.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T21:02:57.363Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "KNFU.Temperatura.Unit.TestMSTest\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T20:45:58.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T20:45:58.838Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "KNFU.Temperatura.Unit.TestMSTest\\ConvertidorTemperaturaTests.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T20:08:43.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T20:08:43.637Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "KNFU.Temperatura\\ConvertidorTemperatura.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T19:58:51.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T19:58:51.273Z"
             }
           ]
         }
